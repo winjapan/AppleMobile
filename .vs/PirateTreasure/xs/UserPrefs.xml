@@ -1,8 +1,22 @@
 ﻿<Properties StartupConfiguration="{FFE5A5F7-2A42-472F-E548-9E38BE2C04CD}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayerController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayerControllerforiOS.cs">
     <Files>
-      <File FileName="Assets/Dummy.cs" Line="30" Column="9" />
-      <File FileName="Assets/PlayerController.cs" Line="7" Column="21" />
+      <File FileName="Assets/SearchForPlayer.cs" Line="53" Column="8" />
+      <File FileName="Assets/ColOpen.cs" Line="28" Column="13" />
+      <File FileName="Assets/ColClear.cs" Line="34" Column="6" />
+      <File FileName="Assets/TimeDirector.cs" Line="19" Column="9" />
+      <File FileName="Assets/StageSerect.cs" Line="7" Column="37" />
+      <File FileName="Assets/PlayerControllerforiOS.cs" Line="22" Column="36" />
+      <File FileName="Assets/StartMoveforiOS.cs" Line="31" Column="1" />
+      <File FileName="Assets/StartMove.cs" Line="38" Column="45" />
+      <File FileName="Assets/ColClearforiOS.cs" Line="31" Column="17" />
+      <File FileName="Assets/CountDirector.cs" Line="47" Column="51" />
+      <File FileName="Assets/PlayerCameraConnect.cs" Line="20" Column="52" />
+      <File FileName="Assets/RotateCamera.cs" Line="44" Column="1" />
+      <File FileName="Assets/OnCameraRotate.cs" Line="31" Column="92" />
+      <File FileName="Assets/OffCameraRotate.cs" Line="34" Column="37" />
+      <File FileName="Assets/CameraController２.cs" Line="10" Column="5" />
+      <File FileName="Assets/PlayerController.cs" Line="84" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
